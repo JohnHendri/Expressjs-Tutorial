@@ -1,0 +1,24 @@
+{
+  "name": "express-tutorial",
+  "version": "1.0.0",
+  "description": "simple customer management app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnHendri/Expressjs-Tutorial.git"
+  },
+  "author": "John Hendri <john.h3ndr1@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnHendri/Expressjs-Tutorial/issues"
+  },
+  "homepage": "https://github.com/JohnHendri/Expressjs-Tutorial#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
